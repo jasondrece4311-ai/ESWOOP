@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AI Face Swap</string>
+    <string name="source_face_label">Photo A · Source Face</string>
+    <string name="target_photo_label">Photo B · Target Photo</string>
+    <string name="select_photo_a">Select Photo A</string>
+    <string name="select_photo_b">Select Photo B</string>
+    <string name="swap_face">Swap Face</string>
+    <string name="before_after_title">Result Comparison</string>
+    <string name="save_to_device">Save to Device</string>
+    <string name="share_result">Share</string>
+    <string name="settings_title">Engine &amp; Pipeline Settings</string>
+</resources>
